@@ -1,0 +1,21 @@
+.Profile{
+    display: flex;
+    flex-direction: column;    
+    align-items: center;
+}
+.headProfile{
+    display: flex;    
+    align-items: baseline;
+}
+.userName{
+    font-family : 'Tangerine',serif;
+    font-size: 50px;
+    text-align: center;
+}
+.bio{
+    font-family: 'Red Hat Mono', monospace;
+    text-align: center;
+}
+.description{
+    font-size: 35px;
+}
